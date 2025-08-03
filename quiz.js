@@ -1,4 +1,4 @@
-// quiz.js
+/// quiz.js
 // Define the checkAnswer function to handle the quiz logic.
 function checkAnswer() {
     // 1. Identify the correct answer.
